@@ -9,15 +9,4 @@ A terminal-based **markdown editor** with *live preview*.
 - Multi-file tabs
 - Theme switching
 
-## Code Example
-
-```go
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, TUI!")
-}
-```
 **Enjoy editing!**
