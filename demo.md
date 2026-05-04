@@ -20,25 +20,4 @@ func main() {
     fmt.Println("Hello, TUI!")
 }
 ```
-
-## Tables
-
-| Feature | Status |
-|---------|--------|
-| Markdown | Done |
-| Vim Mode | Done |
-| Themes   | Done |
-
-## Checklist
-
-- [x] Text buffer
-- [x] Editor pane
-- [x] Preview pane
-- [x] Vim mode
-- [ ] Image preview
-
-> This is a blockquote.
-
----
-
 **Enjoy editing!**
